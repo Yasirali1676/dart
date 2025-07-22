@@ -1,5 +1,5 @@
 void main() {
-  int marks = 85; // User-entered value manually placed here
+  int marks = 8; // User-entered value manually placed here
   print("Your Grade is: ${getGrade(marks)}");
 }
 
